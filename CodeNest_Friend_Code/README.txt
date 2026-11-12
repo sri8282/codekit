@@ -10,6 +10,16 @@ CONTENTS
 
 SETUP (simple commands)
 
+Step 1 – Create a virtual environment
+You are already inside your CodeNest_Friend_Code folder. Run:
+
+python3 -m venv venv
+
+
+Step 2 – Activate it-
+
+source venv/bin/activate
+
 STEP 1 – Install Ollama
 Download and install Ollama from:
 https://ollama.com/download
