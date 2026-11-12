@@ -45,3 +45,19 @@ IMPORTANT NOTES
 - Experiment 6 demonstrates syntax checking and test-based scoring. Its static-analysis and type-checking lines are illustrative messages, not actual tool executions.
 - In Experiment 6, the stray word "Syntax" from the forwarded code has been removed because it causes a syntax error.
 - AI-generated code and output can vary between runs.
+
+
+Experiment number – Program name
+Experiment number	Program name
+Experiment 1b	Code Generation with Test Cases
+Experiment 2	Generative Adversarial Network (GAN) for Code Generation
+Experiment 4	Code Completion Using a Pre-trained Transformer Model
+Experiment 5	Pseudocode to Python Code Conversion
+Experiment 6	AI-Generated Code Quality and Correctness Evaluation
+
+Easy way to remember
+1. 1b – Generate code and test it.
+2. 2 – Generate code and classify it.
+3. 4 – Complete incomplete code.
+4. 5 – Convert pseudocode into Python.
+5. 6 – Check code quality and correctness.
